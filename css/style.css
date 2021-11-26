@@ -817,6 +817,16 @@ footer svg {
   .container-contact {
     width: 80%;
   }
+  html,
+  body {
+    scroll-snap-type: none;
+  }
+  .container {
+    scroll-snap-align: none;
+  }
+  section {
+    scroll-snap-align: none;
+  }
 }
 
 @media (max-width: 415px) {
