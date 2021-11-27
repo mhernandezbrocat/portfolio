@@ -699,6 +699,7 @@ input:focus-visible {
   padding: 10px;
   margin: 0 auto;
   border-radius: 8px;
+  color: #100e17;
 }
 #status.success {
   background-color: rgb(211, 250, 153);
